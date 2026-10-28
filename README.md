@@ -132,7 +132,7 @@ The study highlights the importance of developing models that can effectively id
 
 ## Full Research Paper
 
-[Read the full research paper (PDF)](stroke-prediction-research-paper.pdf)
+[Read the full research paper (PDF)](Artigo_Intelig%C3%AAnciaArtificial.pdf)
 
 ## Keywords
 
